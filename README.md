@@ -65,13 +65,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Platforms
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzfabiozz&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzfabiozz&layout=compact&theme=dark&hide_border=true)
-
-
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/f4b1o22)
+[![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/f4b1o22)
 
 ---
 
