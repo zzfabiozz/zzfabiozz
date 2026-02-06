@@ -13,7 +13,7 @@
 
 > Access Granted ✅  
 > Identity: Fabio  
-> Role: Cybersecurity Student  
+> Role: Information Security Specialist 
 > Interests: Cyber Defense | Pentesting | Incident Response | Threat Intelligence 
 > Mission: Build tools, learn fast, stay sharp.
 
