@@ -1,6 +1,7 @@
 # 🕶️ Fabio | Cybersecurity
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00FF9C&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;CTF+Player+%7C+Blue+Team+Mindset;Web+Security+%7C+OSINT+%7C+Phishing+Analysis;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00FF9C&center=true&vCenter=true&width=700&lines=InfoSec+Specialist;Cyber+Defense+%7C+Pentesting;Incident+Response+%7C+Threat+Intelligence;Detect.+Defend.+Respond." />
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff9c&style=flat)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=flat)
