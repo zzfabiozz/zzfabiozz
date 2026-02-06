@@ -11,19 +11,16 @@
 
 ## 🧬 About Me
 
-[ SYSTEM STATUS ]   ACCESS GRANTED ✔
-[ OPERATOR      ]   Fabio
-[ ROLE          ]   Information Security Specialist
-
-[ CORE DOMAINS ]
-• Cyber Defense
-• Pentesting
-• Incident Response
-• Threat Intelligence
-
-[ CURRENT MISSION ]
-Build security tools, improve detection, and respond faster than threats evolve.
-
+[ SYSTEM STATUS ] ACCESS GRANTED ✔<br>
+[ OPERATOR      ] Fabio<br>
+[ ROLE          ] Information Security Specialist<br><br>
+[ CORE DOMAINS ]<br>
+• Cyber Defense<br>
+• Pentesting<br>
+• Incident Response<br>
+• Threat Intelligence<br><br>
+[ CURRENT MISSION ]<br>
+Build security tools, improve detection, and respond faster than threats evolve.<br><br>
 [ MODE ] DETECTION & RESPONSE
 
 - 🔭 Working on: Security labs, mini tools, CTF challenges  
