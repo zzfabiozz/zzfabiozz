@@ -11,11 +11,11 @@
 
 ## 🧬 About Me
 
-> Access Granted ✅  
-> Identity: Fabio  
-> Role: Information Security Specialist 
-> Interests: Cyber Defense | Pentesting | Incident Response | Threat Intelligence 
-> Mission: Build tools, learn fast, stay sharp.
+Access Granted ✅<br>
+Identity: Fabio<br>
+Role: Information Security Specialist<br>
+Interests: Cyber Defense | Pentesting | Incident Response | Threat Intelligence<br>
+Mission: Build tools, learn fast, stay sharp.
 
 - 🔭 Working on: Security labs, mini tools, CTF challenges  
 - 🧠 Learning: Web exploitation, phishing detection, OSINT, Threat Intelligence
