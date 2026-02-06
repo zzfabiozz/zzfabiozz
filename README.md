@@ -1,4 +1,4 @@
-# 🕶️ F4B1O22 | Cybersecurity
+# 🕶️ f4b1o22
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00FF9C&center=true&vCenter=true&width=700&lines=InfoSec+Specialist;Cyber+Defense+%7C+Pentesting;Incident+Response+%7C+Threat+Intelligence;Detect.+Defend.+Respond." />
 
@@ -12,7 +12,7 @@
 ## 🧬 About Me
 
 [ SYSTEM STATUS ] ACCESS GRANTED ✔<br>
-[ OPERATOR      ] Fabio<br>
+[ OPERATOR      ] f4b1o22<br>
 [ ROLE          ] Information Security Specialist<br><br>
 [ CORE DOMAINS ]<br>
 • Cyber Defense<br>
